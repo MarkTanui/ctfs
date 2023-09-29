@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'ctfs with th3madbit'
+theme = 'holy'
+
+
