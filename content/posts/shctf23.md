@@ -232,6 +232,6 @@ A more secure app than chall 3. Reversed it and got the logic. Uses a password t
 
 This required some knowledge of JNI functions and patience. Lots of patience reversing that. I didn't have the patience and run to other challenges. 
 
-Check this great writeup by the creator of the challenge [**here**](https://evalevanto.github.io/posts/snotes/).  
+Check this great writeup by the [levanto](https://twitter.com/levanto_0) [**here**](https://evalevanto.github.io/posts/snotes/).  
 
 jni_stuff_makes_me_cry, right? ofc
