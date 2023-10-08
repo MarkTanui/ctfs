@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ctfs.marktanui.com/'
 languageCode = 'en-us'
 title = 'ctfs with th3madbit'
 theme = 'holy'
