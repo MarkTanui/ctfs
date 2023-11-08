@@ -1,10 +1,10 @@
 ---
 title: "BsidesNBI Cyber Challenge '23: Android Challenges"
-date: 2023-09-29
+date: 2023-11-08
 draft: false
 ---
 
-## Author of Challenges: [themadbit]
+## Author of Challenges: i, [themadbit](https://twitter.com/themadbit)
 
 This write-up is from the point of view of the creator. There are many ways to kill the proverbial rat and these challenges are no exception.
 
