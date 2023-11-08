@@ -1,5 +1,5 @@
 ---
-title: "BsidesNBI Cyber Challenge '23: Android Challenges"
+title: "BsidesNBI Cyber Challenge '23"
 date: 2023-11-08
 draft: false
 ---
